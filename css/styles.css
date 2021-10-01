@@ -39,10 +39,10 @@ h1.titulo span {
 .nav-bg {
     background-color: var(--secundario);
 }
-.navegación-principal {
+.navegacion-principal {
     padding: 1rem;
 }
-.navegación-principal a {
+.navegacion-principal a {
     color: var(--blanco);
     background-color: var(--primario);
     text-decoration: none;
