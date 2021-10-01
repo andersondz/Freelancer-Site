@@ -16,6 +16,11 @@ body {
     font-family: 'Krub', sans-serif;
 }
 
+.contenedor{
+    width: 120rem;
+    margin: 0 auto;
+}
+
 /* header */
 .titulo {
     text-align: center;
@@ -30,3 +35,15 @@ h1.titulo span {
     color: rgb(39, 211, 105);
 } */
 
+/* navegación principal */
+.nav-bg {
+    background-color: var(--secundario);
+}
+.navegación-principal {
+    padding: 1rem;
+}
+.navegación-principal a {
+    color: var(--blanco);
+    background-color: var(--primario);
+    text-decoration: none;
+}
